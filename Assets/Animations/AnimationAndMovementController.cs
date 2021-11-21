@@ -12,6 +12,7 @@ public class AnimationAndMovementController : MonoBehaviour
     Vector2 currentMovementInput;
     Vector3 currentMovement;
     bool isMovementPressed;
+    private Camera mainCamera;
 
 
     private void Awake() {
@@ -19,6 +20,8 @@ public class AnimationAndMovementController : MonoBehaviour
         characterController = GetComponent<CharacterController>();
         animator = GetComponent<Animator>();
 
+        if(!mainCamera) mainCamera = Camera.main;
+        
         isWalkingHash = Animator.StringToHash("isWalking");
 
         playerInput.Movement.Move.started += context => { 
@@ -73,8 +76,7 @@ public class AnimationAndMovementController : MonoBehaviour
 
     void onMovementInput(InputAction.CallbackContext context) {
         currentMovementInput = context.ReadValue<Vector2>();
-        currentMovement.x = currentMovementInput.x;
-        currentMovement.z = currentMovementInput.y;
+        currentMovement = mainCamera.transform.right * currentMovementInput.x + mainCamera.transform.forward * currentMovementInput.y;
         isMovementPressed = currentMovementInput.x != 0 || currentMovementInput.y != 0;
     }
 
