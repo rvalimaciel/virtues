@@ -90,7 +90,7 @@ public class AnimationAndMovementController : MonoBehaviour
         handleRotation();
         handleAnimation();
         handleGravity();
-        characterController.Move(currentMovement * Time.deltaTime);
+        characterController.Move((currentMovement * 2.5f) * Time.deltaTime);
     }
 
     private void OnEnable() {
