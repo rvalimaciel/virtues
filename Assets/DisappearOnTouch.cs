@@ -7,12 +7,13 @@ public class DisappearOnTouch : MonoBehaviour
     public Player player;
     void Update()
     {
+    
     }
 
     private void OnTriggerEnter(Collider other)
     {
         gameObject.SetActive(false);
         player.hasQuestObject = true;
-        Debug.Log();
+        Debug.Log(player);
     }
 }

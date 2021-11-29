@@ -2897,3 +2897,1404 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,005897 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0,68 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,201 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1202ms)
+		BeginReloadAssembly (112ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (47ms)
+		EndReloadAssembly (1031ms)
+			LoadAssemblies (101ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (386ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (60ms)
+			SetupLoadedEditorAssemblies (332ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (14ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (69ms)
+				ProcessInitializeOnLoadAttributes (240ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (16ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0,78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 3325 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 164,0 MB.
+System memory in use after: 164,2 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 4041.
+Total: 6,310905 ms (FindLiveObjects: 0,363844 ms CreateObjectMapping: 0,161836 ms MarkObjects: 5,667754 ms  DeleteObjects: 0,116316 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,012238 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0,69 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,220 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1220ms)
+		BeginReloadAssembly (111ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (45ms)
+		EndReloadAssembly (1054ms)
+			LoadAssemblies (94ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (362ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (57ms)
+			SetupLoadedEditorAssemblies (342ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (13ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (72ms)
+				ProcessInitializeOnLoadAttributes (249ms)
+				ProcessInitializeOnLoadMethodAttributes (3ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (18ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1,14 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 3325 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 164,0 MB.
+System memory in use after: 164,2 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 4043.
+Total: 9,223915 ms (FindLiveObjects: 0,759154 ms CreateObjectMapping: 0,345674 ms MarkObjects: 7,902182 ms  DeleteObjects: 0,214884 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,005383 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1,00 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,460 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1460ms)
+		BeginReloadAssembly (112ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (45ms)
+		EndReloadAssembly (1292ms)
+			LoadAssemblies (97ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (418ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (77ms)
+			SetupLoadedEditorAssemblies (451ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (16ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (102ms)
+				ProcessInitializeOnLoadAttributes (321ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (19ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0,67 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 3325 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 164,1 MB.
+System memory in use after: 164,2 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 4045.
+Total: 6,149690 ms (FindLiveObjects: 0,405883 ms CreateObjectMapping: 0,161301 ms MarkObjects: 5,474106 ms  DeleteObjects: 0,107280 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,006762 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0,66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,351 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1352ms)
+		BeginReloadAssembly (134ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (47ms)
+		EndReloadAssembly (1141ms)
+			LoadAssemblies (113ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (370ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (55ms)
+			SetupLoadedEditorAssemblies (473ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (12ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (73ms)
+				ProcessInitializeOnLoadAttributes (377ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (19ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0,98 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 3325 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 164,1 MB.
+System memory in use after: 164,2 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 4047.
+Total: 7,641367 ms (FindLiveObjects: 0,438930 ms CreateObjectMapping: 0,205627 ms MarkObjects: 6,853718 ms  DeleteObjects: 0,141522 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,009289 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1,32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2,024 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2025ms)
+		BeginReloadAssembly (176ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (74ms)
+		EndReloadAssembly (1737ms)
+			LoadAssemblies (146ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (609ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (90ms)
+			SetupLoadedEditorAssemblies (619ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (28ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (150ms)
+				ProcessInitializeOnLoadAttributes (425ms)
+				ProcessInitializeOnLoadMethodAttributes (8ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (30ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1,73 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 3325 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 164,1 MB.
+System memory in use after: 164,2 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 4049.
+Total: 12,078444 ms (FindLiveObjects: 0,884922 ms CreateObjectMapping: 0,378066 ms MarkObjects: 10,542844 ms  DeleteObjects: 0,269169 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,007036 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1,06 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,295 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1296ms)
+		BeginReloadAssembly (161ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (61ms)
+		EndReloadAssembly (1068ms)
+			LoadAssemblies (120ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (369ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (58ms)
+			SetupLoadedEditorAssemblies (379ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (15ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (101ms)
+				ProcessInitializeOnLoadAttributes (254ms)
+				ProcessInitializeOnLoadMethodAttributes (3ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (15ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0,65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 3325 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 164,1 MB.
+System memory in use after: 164,2 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 4051.
+Total: 6,116153 ms (FindLiveObjects: 0,374511 ms CreateObjectMapping: 0,144601 ms MarkObjects: 5,482042 ms  DeleteObjects: 0,113726 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,010826 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1,24 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,618 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1619ms)
+		BeginReloadAssembly (157ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (65ms)
+		EndReloadAssembly (1377ms)
+			LoadAssemblies (125ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (472ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (72ms)
+			SetupLoadedEditorAssemblies (495ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (16ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (96ms)
+				ProcessInitializeOnLoadAttributes (370ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (32ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0,83 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 3325 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 164,1 MB.
+System memory in use after: 164,2 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 4053.
+Total: 8,305351 ms (FindLiveObjects: 0,474504 ms CreateObjectMapping: 0,188361 ms MarkObjects: 7,501776 ms  DeleteObjects: 0,139204 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 4185,413769 seconds.
+  path: Assets/Medieval ruins/textures/black.png
+  artifactKey: Guid(8734ed61a83f0208da272f2edb366485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/black.png using Guid(8734ed61a83f0208da272f2edb366485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b19522ef7e25e40fc3549c42ca433f8b') in 0,039026 seconds 
+  Import took 0,046253 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000132 seconds.
+  path: Assets/Medieval ruins/textures/schingle_normal.png
+  artifactKey: Guid(db3b6de63cdcc9390b966b264094d579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/schingle_normal.png using Guid(db3b6de63cdcc9390b966b264094d579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7e16ecd64e234f205b455d732a26336') in 0,007095 seconds 
+  Import took 0,013248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000176 seconds.
+  path: Assets/Medieval ruins/textures/Main_Pallete.png
+  artifactKey: Guid(cbab0e91d0fa8c2d88325581a670cb04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/Main_Pallete.png using Guid(cbab0e91d0fa8c2d88325581a670cb04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1af70ad22a1586f78664438023d68813') in 0,007441 seconds 
+  Import took 0,014121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000168 seconds.
+  path: Assets/Medieval ruins/textures/StoneBlocks_4-7_AO.png
+  artifactKey: Guid(d17a37832803026739342329ea8051c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/StoneBlocks_4-7_AO.png using Guid(d17a37832803026739342329ea8051c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1193779b8caa37c982e47db2338a168') in 0,008236 seconds 
+  Import took 0,016374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000165 seconds.
+  path: Assets/Medieval ruins/textures/smlstone.png
+  artifactKey: Guid(c359bb3b890b7b9d89c8bb231f7aae7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/smlstone.png using Guid(c359bb3b890b7b9d89c8bb231f7aae7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe722ab810c36c2e4c22a8a4bb738b4d') in 0,007599 seconds 
+  Import took 0,014651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000179 seconds.
+  path: Assets/Medieval ruins/textures/blue.png
+  artifactKey: Guid(e4e276cbbe62c5b37ba5c4a48838c712) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/blue.png using Guid(e4e276cbbe62c5b37ba5c4a48838c712) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02f3f5bd993bbb0d58b9956eaf97f29c') in 0,005951 seconds 
+  Import took 0,012644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000158 seconds.
+  path: Assets/Medieval ruins/textures/Guest_m_1_color.png
+  artifactKey: Guid(292a51bbc3b3c10b5844b3223a4ac923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/Guest_m_1_color.png using Guid(292a51bbc3b3c10b5844b3223a4ac923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2514682f7beacedf80407c9e48cb116') in 0,007510 seconds 
+  Import took 0,014044 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000149 seconds.
+  path: Assets/Medieval ruins/textures/texture.jpeg
+  artifactKey: Guid(527b79b803de24190acda3cda1b1ba41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/texture.jpeg using Guid(527b79b803de24190acda3cda1b1ba41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66bb47e42d64e15ac3b9e9bbfacce307') in 0,009575 seconds 
+  Import took 0,015741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000190 seconds.
+  path: Assets/Medieval ruins/textures/medievalfantasyforest_diffuse.png
+  artifactKey: Guid(4c6cf0d22a3900677a65b1d7ac13248e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/medievalfantasyforest_diffuse.png using Guid(4c6cf0d22a3900677a65b1d7ac13248e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76c8503f862f885eefe03c56821ed2e6') in 0,006951 seconds 
+  Import took 0,015240 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000242 seconds.
+  path: Assets/Medieval ruins/textures/wood.png
+  artifactKey: Guid(10c24c46c003894918335369a8a4687f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/wood.png using Guid(10c24c46c003894918335369a8a4687f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ee7fae1f33a50512e5f1f4de133655d') in 0,008072 seconds 
+  Import took 0,017235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000186 seconds.
+  path: Assets/Medieval ruins/textures/stone.png
+  artifactKey: Guid(0dd65d683ceb88e69bdd4f4e6f6e6b3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/stone.png using Guid(0dd65d683ceb88e69bdd4f4e6f6e6b3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3431b944b2ff816c292c7f50052466ef') in 0,006613 seconds 
+  Import took 0,013299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000170 seconds.
+  path: Assets/Medieval ruins/textures/wood_normal.png
+  artifactKey: Guid(f54d762bf4a8a27e0940cb8d797dbad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/wood_normal.png using Guid(f54d762bf4a8a27e0940cb8d797dbad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0707bfe5dd88e69930c6472f34832fc4') in 0,007343 seconds 
+  Import took 0,016731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000170 seconds.
+  path: Assets/Medieval ruins/textures/monk_albedo.png
+  artifactKey: Guid(0e3f82bb4aaf7c9c59528ce67e58df79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/monk_albedo.png using Guid(0e3f82bb4aaf7c9c59528ce67e58df79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '860cda60d35670041a16ea9a8bef3614') in 0,010451 seconds 
+  Import took 0,019147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000166 seconds.
+  path: Assets/Medieval ruins/textures/TextureAtlas.png
+  artifactKey: Guid(538a3b22e3aee14a18ff9cea98256f2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/TextureAtlas.png using Guid(538a3b22e3aee14a18ff9cea98256f2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8407cb9f71da5c6978a6f9d1642a2458') in 0,007510 seconds 
+  Import took 0,016118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000166 seconds.
+  path: Assets/Medieval ruins/textures/brown.png
+  artifactKey: Guid(7bccce4afbdcd5e71abbee657f21b439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/brown.png using Guid(7bccce4afbdcd5e71abbee657f21b439) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33c1c266fb965792997bd697e4c2043a') in 0,007235 seconds 
+  Import took 0,016422 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000207 seconds.
+  path: Assets/Medieval ruins/textures/TownDIFF.png
+  artifactKey: Guid(2ecbbbd5172e7ae0391237feea4414fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/TownDIFF.png using Guid(2ecbbbd5172e7ae0391237feea4414fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '611c7513abd34b03dcd8c241b4b43fdc') in 0,008488 seconds 
+  Import took 0,017503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000173 seconds.
+  path: Assets/Medieval ruins/textures/dkbrow.png
+  artifactKey: Guid(ae2d642d027eb2ad3a7a9086e4027632) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/dkbrow.png using Guid(ae2d642d027eb2ad3a7a9086e4027632) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de835afafff27a80d6b14a42f54cb089') in 0,009587 seconds 
+  Import took 0,019007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000166 seconds.
+  path: Assets/Medieval ruins/textures/dirt.png
+  artifactKey: Guid(0aad5b950e205f485ad047133c020372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/dirt.png using Guid(0aad5b950e205f485ad047133c020372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5396890d667107eab79f2635401f81ef') in 0,007689 seconds 
+  Import took 0,016545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000148 seconds.
+  path: Assets/Medieval ruins/textures/color_map.png
+  artifactKey: Guid(d5df00157f2f0a1c19c66b2ea1601a92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/color_map.png using Guid(d5df00157f2f0a1c19c66b2ea1601a92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56f94080f10a7a2875354010e1de41c8') in 0,007427 seconds 
+  Import took 0,014566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000165 seconds.
+  path: Assets/Medieval ruins/textures/pulley_albedo.png
+  artifactKey: Guid(b03d6bb6306125d91bc6992b8b51039c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/pulley_albedo.png using Guid(b03d6bb6306125d91bc6992b8b51039c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c142cb91f35ec821551922f76ad6b99') in 0,007640 seconds 
+  Import took 0,016239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000160 seconds.
+  path: Assets/Medieval ruins/textures/well_albedo.png
+  artifactKey: Guid(28f959f1ae92792d68d2b973c47858de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/well_albedo.png using Guid(28f959f1ae92792d68d2b973c47858de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '534a31359ce1dcc6cb09daadd5dd3205') in 0,009202 seconds 
+  Import took 0,018937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000174 seconds.
+  path: Assets/Medieval ruins/textures/WodenSet_1_AO.png
+  artifactKey: Guid(a0c33e1f7c2124adea63ea93fb878fdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/WodenSet_1_AO.png using Guid(a0c33e1f7c2124adea63ea93fb878fdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c4a18931991daa86881371af6c87c72') in 0,009632 seconds 
+  Import took 0,020014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000217 seconds.
+  path: Assets/Medieval ruins/textures/gray.png
+  artifactKey: Guid(e7bfdb2304c806f06ace6d52233cea66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/gray.png using Guid(e7bfdb2304c806f06ace6d52233cea66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90222b9c74e2b360bea2897d00c3d2e0') in 0,007552 seconds 
+  Import took 0,017110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000160 seconds.
+  path: Assets/Medieval ruins/textures/hillock_albedo.png
+  artifactKey: Guid(0519b84262b8f157ca6f8fd8cc2e69a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/hillock_albedo.png using Guid(0519b84262b8f157ca6f8fd8cc2e69a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '665f3970a692283bd7f467890250760f') in 0,016100 seconds 
+  Import took 0,027109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000161 seconds.
+  path: Assets/Medieval ruins/textures/skincolr.png
+  artifactKey: Guid(90b4dcc46856a4936b07068e79118059) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/skincolr.png using Guid(90b4dcc46856a4936b07068e79118059) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e670bc3380adb35e2ab50c963cdded64') in 0,007463 seconds 
+  Import took 0,016932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000198 seconds.
+  path: Assets/Medieval ruins/textures/dirtroad.png
+  artifactKey: Guid(4be68c728ca03309d83a887f347bf96b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/dirtroad.png using Guid(4be68c728ca03309d83a887f347bf96b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fb3ed7a2b6577c51cc3796d3e4fa682') in 0,014864 seconds 
+  Import took 0,023563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000180 seconds.
+  path: Assets/Medieval ruins/textures/litblue.png
+  artifactKey: Guid(cb7f0315d752bbafbaf913518a8e0af7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/litblue.png using Guid(cb7f0315d752bbafbaf913518a8e0af7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '993ca1a371d130601c44606b1f73f549') in 0,008079 seconds 
+  Import took 0,016140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000163 seconds.
+  path: Assets/Medieval ruins/textures/trubrown.png
+  artifactKey: Guid(803ad9f30ea781e098fb31871d0e2cdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/trubrown.png using Guid(803ad9f30ea781e098fb31871d0e2cdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3e9715c11ab5b2eedd2b2b357821514') in 0,007405 seconds 
+  Import took 0,017501 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000185 seconds.
+  path: Assets/Medieval ruins/textures/yellow.png
+  artifactKey: Guid(15d32e190d5a9222189bd8a18a2c9d95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/yellow.png using Guid(15d32e190d5a9222189bd8a18a2c9d95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62cbe7ce2fadebb71a4ea895a452d204') in 0,009309 seconds 
+  Import took 0,017522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000157 seconds.
+  path: Assets/Medieval ruins/textures/smlstone_normal.png
+  artifactKey: Guid(54cd7988fbe80cce3b001f2037af690b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/smlstone_normal.png using Guid(54cd7988fbe80cce3b001f2037af690b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb5c84756022a50d05c35df220c67047') in 0,009130 seconds 
+  Import took 0,017891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,002531 seconds.
+  path: Assets/Medieval ruins/textures/WodenStairs_1-9_AO.png
+  artifactKey: Guid(66003155924fd0f90aeba57d4791919a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/WodenStairs_1-9_AO.png using Guid(66003155924fd0f90aeba57d4791919a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '606b674356e0fca0bd87877f669624ed') in 0,011756 seconds 
+  Import took 0,022334 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000653 seconds.
+  path: Assets/Medieval ruins/textures/ltgray.png
+  artifactKey: Guid(7fd7bf9a875384a8d992b131ef6668b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/ltgray.png using Guid(7fd7bf9a875384a8d992b131ef6668b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6696ac10cd139e995332b5fe4ad54dc3') in 0,008691 seconds 
+  Import took 0,018162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000176 seconds.
+  path: Assets/Medieval ruins/textures/dirt_normal.png
+  artifactKey: Guid(f5e97a0d9a4696cf4a741ed63e4417bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/dirt_normal.png using Guid(f5e97a0d9a4696cf4a741ed63e4417bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1311ae2f0526cdf3c0a640bf2657f41b') in 0,007776 seconds 
+  Import took 0,015596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000164 seconds.
+  path: Assets/Medieval ruins/textures/terrain_albedo.png
+  artifactKey: Guid(e7d1bf923ec982e5ea6620e58f5467a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/terrain_albedo.png using Guid(e7d1bf923ec982e5ea6620e58f5467a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2327169980037e4ff4b5ff59142518fb') in 0,010319 seconds 
+  Import took 0,020362 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000170 seconds.
+  path: Assets/Medieval ruins/textures/grass.png
+  artifactKey: Guid(f10e71928f15f6747b545b08ef0ec34a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/grass.png using Guid(f10e71928f15f6747b545b08ef0ec34a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '629efd49d17d122343a210003bd73277') in 0,007489 seconds 
+  Import took 0,018747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000175 seconds.
+  path: Assets/Medieval ruins/textures/medieval_diffuse.png
+  artifactKey: Guid(b90659c53cc12bbce9b2e4a7aa4f96ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/medieval_diffuse.png using Guid(b90659c53cc12bbce9b2e4a7aa4f96ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd99e7200e5a7b4c7ed3e14fff807a7b4') in 0,010148 seconds 
+  Import took 0,020980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000308 seconds.
+  path: Assets/Medieval ruins/textures/Rock_8_9_AO_.png
+  artifactKey: Guid(e19a3c41b874c291bbc59a063881d792) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/Rock_8_9_AO_.png using Guid(e19a3c41b874c291bbc59a063881d792) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c570dc6a94c3200072a7dbeb65883c0') in 0,012388 seconds 
+  Import took 0,021167 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000223 seconds.
+  path: Assets/Medieval ruins/textures/schingle.png
+  artifactKey: Guid(befcff02064c49b5da500f170d2b880b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/schingle.png using Guid(befcff02064c49b5da500f170d2b880b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87714476873ba6b31106745b0ab3bc81') in 0,009349 seconds 
+  Import took 0,018537 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000231 seconds.
+  path: Assets/Medieval ruins/textures/Colors.png
+  artifactKey: Guid(66cfd1f783e8ce9b0bbab68e131fbd9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/Colors.png using Guid(66cfd1f783e8ce9b0bbab68e131fbd9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5109119d5ea04c506b363e803183a361') in 0,008750 seconds 
+  Import took 0,016067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000175 seconds.
+  path: Assets/Medieval ruins/textures/white.png
+  artifactKey: Guid(1fc7f5e59a6dce53f8e31fbdadd7f8a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/white.png using Guid(1fc7f5e59a6dce53f8e31fbdadd7f8a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3672064318618377dc583314dd81e4c0') in 0,007433 seconds 
+  Import took 0,014901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000194 seconds.
+  path: Assets/Medieval ruins/textures/wizardTowerDiff.png
+  artifactKey: Guid(e82329fbb42e89ce198bbcebf336bcfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/wizardTowerDiff.png using Guid(e82329fbb42e89ce198bbcebf336bcfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17cb6220ce5aedb211969c2843d1c7c2') in 0,008648 seconds 
+  Import took 0,017035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000189 seconds.
+  path: Assets/Medieval ruins/textures/stone_normal.png
+  artifactKey: Guid(dbca02ecc1d6575ee9b7827ab98bdf3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/stone_normal.png using Guid(dbca02ecc1d6575ee9b7827ab98bdf3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20142d3cc36e5f8cdf56a41a02ef8cdb') in 0,008789 seconds 
+  Import took 0,017206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000191 seconds.
+  path: Assets/Medieval ruins/textures/dkbrown.png
+  artifactKey: Guid(a477257c76a95c243a914d767c02bad7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/dkbrown.png using Guid(a477257c76a95c243a914d767c02bad7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0502a08c5a0e875944576fb4d6ce05b8') in 0,007875 seconds 
+  Import took 0,016044 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000209 seconds.
+  path: Assets/Medieval ruins/textures/HouseBases_AO.png
+  artifactKey: Guid(fd9ffe22f10002ba188c121ebe6dc4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/textures/HouseBases_AO.png using Guid(fd9ffe22f10002ba188c121ebe6dc4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62576c7e1e2125bc42c6fb2957886332') in 0,010900 seconds 
+  Import took 0,020130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4,658904 seconds.
+  path: Assets/Medieval ruins/source/#MedievalRemixChallenge.zip
+  artifactKey: Guid(d167283812bf8f89eb03d3616be23a3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/#MedievalRemixChallenge.zip using Guid(d167283812bf8f89eb03d3616be23a3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d27be4fce4b7ec86f6fa98de117d36a') in 0,002265 seconds 
+  Import took 0,010409 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18,540518 seconds.
+  path: Assets/Medieval ruins/source/#MedievalRemixChallenge.fbx
+  artifactKey: Guid(ec5442688c3162bd2ba0496dfde4f749) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/#MedievalRemixChallenge.fbx using Guid(ec5442688c3162bd2ba0496dfde4f749) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04423c78f92f55414d8e35a6e535d432') in 4,593387 seconds 
+  Import took 4,606954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000209 seconds.
+  path: Assets/Medieval ruins/source/blue.png
+  artifactKey: Guid(709872877fbab17bab7be54a28a4974e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/blue.png using Guid(709872877fbab17bab7be54a28a4974e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de2f4de3b937a4aef8280457ee0c8f20') in 0,007051 seconds 
+  Import took 0,016999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000304 seconds.
+  path: Assets/Medieval ruins/source/dkbrown.png
+  artifactKey: Guid(c0070d0bec6d3dd67b339fcc3880890f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/dkbrown.png using Guid(c0070d0bec6d3dd67b339fcc3880890f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b98d489d068bb57afe754238d4704262') in 0,008026 seconds 
+  Import took 0,018292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000187 seconds.
+  path: Assets/Medieval ruins/source/well_albedo.png
+  artifactKey: Guid(407f58225e018807ab8a2ab5268a1719) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/well_albedo.png using Guid(407f58225e018807ab8a2ab5268a1719) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49267f68ed6ef1ee8e7298f58216557b') in 0,010900 seconds 
+  Import took 0,020422 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000161 seconds.
+  path: Assets/Medieval ruins/source/color_map.png
+  artifactKey: Guid(4f568e18ff032edaca50374700161f89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/color_map.png using Guid(4f568e18ff032edaca50374700161f89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '708376250839388d1cf5023481cb5a3c') in 0,007493 seconds 
+  Import took 0,014981 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000179 seconds.
+  path: Assets/Medieval ruins/source/RoughnessAtlas.png
+  artifactKey: Guid(e8fd8047177c4e7499d7a72345a17782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/RoughnessAtlas.png using Guid(e8fd8047177c4e7499d7a72345a17782) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f95369473b0a75ee0646e685ed8e7e2') in 0,009497 seconds 
+  Import took 0,017172 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000209 seconds.
+  path: Assets/Medieval ruins/source/WodenStairs_1-9_AO.png
+  artifactKey: Guid(86505add9d880cc53a6d95b069b979d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/WodenStairs_1-9_AO.png using Guid(86505add9d880cc53a6d95b069b979d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60265997294153a34aed251577a24e51') in 0,010707 seconds 
+  Import took 0,019404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000165 seconds.
+  path: Assets/Medieval ruins/source/HouseBases_AO.png
+  artifactKey: Guid(38c4a10a6a2024aada117a188fe6791a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/HouseBases_AO.png using Guid(38c4a10a6a2024aada117a188fe6791a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38b6be8fedf113dd03df8b7b62cd1db1') in 0,009184 seconds 
+  Import took 0,015810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000229 seconds.
+  path: Assets/Medieval ruins/source/terrain_albedo.png
+  artifactKey: Guid(bceeb9d135f217700b9f76baeb51dae9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/terrain_albedo.png using Guid(bceeb9d135f217700b9f76baeb51dae9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '077c4982720da770051d37deb7a19e84') in 0,007524 seconds 
+  Import took 0,014807 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000165 seconds.
+  path: Assets/Medieval ruins/source/dirt.png
+  artifactKey: Guid(1f21df0ee477ae86cbaea0db9c74e8f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/dirt.png using Guid(1f21df0ee477ae86cbaea0db9c74e8f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10e95038ffc26b52b6873c98828ab9ae') in 0,007356 seconds 
+  Import took 0,014857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000161 seconds.
+  path: Assets/Medieval ruins/source/texture.jpg
+  artifactKey: Guid(61d528c526ae702dba52f3647b8c9c0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/texture.jpg using Guid(61d528c526ae702dba52f3647b8c9c0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f8ffb59a345c772f394eda2ea827189') in 0,007900 seconds 
+  Import took 0,016718 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000167 seconds.
+  path: Assets/Medieval ruins/source/litblue.png
+  artifactKey: Guid(d105b93daff2679608377e0da072d1ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/litblue.png using Guid(d105b93daff2679608377e0da072d1ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95d396b5dc3d69db1511eb3f86286e30') in 0,008810 seconds 
+  Import took 0,017622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000157 seconds.
+  path: Assets/Medieval ruins/source/black.png
+  artifactKey: Guid(ba361d03a2e828bd2bcc73dadf66053c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/black.png using Guid(ba361d03a2e828bd2bcc73dadf66053c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f33c5e69d787acdc77f75ae053599b2') in 0,007565 seconds 
+  Import took 0,014474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000170 seconds.
+  path: Assets/Medieval ruins/source/SSSAtlas.png
+  artifactKey: Guid(23d33f04854c98a15bafef34defb115c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/SSSAtlas.png using Guid(23d33f04854c98a15bafef34defb115c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7765dd270d4c135717866fb63d907f6d') in 0,011498 seconds 
+  Import took 0,020618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000154 seconds.
+  path: Assets/Medieval ruins/source/StoneBlocks_4-7_AO.png
+  artifactKey: Guid(a1c38c8391af02d11a46f9754a62ac46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/StoneBlocks_4-7_AO.png using Guid(a1c38c8391af02d11a46f9754a62ac46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0acbdeda95f4055f4db464925127222') in 0,010126 seconds 
+  Import took 0,018650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000163 seconds.
+  path: Assets/Medieval ruins/source/grass.png
+  artifactKey: Guid(c865bf3cb9d8d603aa46c05389ea0e50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/grass.png using Guid(c865bf3cb9d8d603aa46c05389ea0e50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78a80b94130a8b1d20e42b4991613f32') in 0,007046 seconds 
+  Import took 0,015834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000186 seconds.
+  path: Assets/Medieval ruins/source/pulley_albedo.png
+  artifactKey: Guid(904a98f92631f1fbb83e5f37c79aae53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/pulley_albedo.png using Guid(904a98f92631f1fbb83e5f37c79aae53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68fdae08933f561b51e82094fff765a5') in 0,007182 seconds 
+  Import took 0,015597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000458 seconds.
+  path: Assets/Medieval ruins/source/schingle.png
+  artifactKey: Guid(b7441ba1317df0b7e9bf87a9ff7fd4a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/schingle.png using Guid(b7441ba1317df0b7e9bf87a9ff7fd4a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e10ec9d806167b2e452f14ae58f5c8a9') in 0,007895 seconds 
+  Import took 0,017965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000215 seconds.
+  path: Assets/Medieval ruins/source/ltgray.png
+  artifactKey: Guid(ced9f03c8837edb108e7840f4b23e43d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/ltgray.png using Guid(ced9f03c8837edb108e7840f4b23e43d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b44dc436e91b01b20db6011f47e1d3a') in 0,007975 seconds 
+  Import took 0,017278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000197 seconds.
+  path: Assets/Medieval ruins/source/skincolr.png
+  artifactKey: Guid(158ff4a94431dff9ea9a202ce5c4597a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/skincolr.png using Guid(158ff4a94431dff9ea9a202ce5c4597a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd84a1266899394c7c4382d7c466dfb03') in 0,007231 seconds 
+  Import took 0,015319 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000189 seconds.
+  path: Assets/Medieval ruins/source/WodenSet_1_AO.png
+  artifactKey: Guid(bd8fa97677ac7bf39b3535dca34794d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/WodenSet_1_AO.png using Guid(bd8fa97677ac7bf39b3535dca34794d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a971287af3c949d3e098d49b6f12dca') in 0,015086 seconds 
+  Import took 0,023291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000266 seconds.
+  path: Assets/Medieval ruins/source/trubrown.png
+  artifactKey: Guid(d1ee6783d04dffca9bf7ef8deb2ec0da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/trubrown.png using Guid(d1ee6783d04dffca9bf7ef8deb2ec0da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62ba99cd46dcfd86cb24188410dffad6') in 0,006947 seconds 
+  Import took 0,016261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000214 seconds.
+  path: Assets/Medieval ruins/source/monk_albedo.png
+  artifactKey: Guid(754cc52a88252223b899ee8b45db3bbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/monk_albedo.png using Guid(754cc52a88252223b899ee8b45db3bbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ffa3c69d29a854aa7575675357a31ea') in 0,007762 seconds 
+  Import took 0,016515 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000206 seconds.
+  path: Assets/Medieval ruins/source/dirt_normal.png
+  artifactKey: Guid(352bce727e1e78c1183b636f1421bdba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/dirt_normal.png using Guid(352bce727e1e78c1183b636f1421bdba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4c1a75502fc93957d3aa350f1de5074') in 0,007453 seconds 
+  Import took 0,015979 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000192 seconds.
+  path: Assets/Medieval ruins/source/wood_normal.png
+  artifactKey: Guid(4b7993e6e1c0b5a7fb37f02d29b13883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/wood_normal.png using Guid(4b7993e6e1c0b5a7fb37f02d29b13883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c7bef3d5b37f816e2422e47a6431d76') in 0,010859 seconds 
+  Import took 0,017840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000180 seconds.
+  path: Assets/Medieval ruins/source/Guest_m_1_color.png
+  artifactKey: Guid(81240acbaf80150a88f9dd2175393a70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/Guest_m_1_color.png using Guid(81240acbaf80150a88f9dd2175393a70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad8705b74f8f655c1a76e128efc170a0') in 0,011941 seconds 
+  Import took 0,020434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000190 seconds.
+  path: Assets/Medieval ruins/source/Colors.png
+  artifactKey: Guid(f2074fa5646dd26ea85fb9a08fc61791) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/Colors.png using Guid(f2074fa5646dd26ea85fb9a08fc61791) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b08ad106ce78e02ced3f5c041315d852') in 0,009647 seconds 
+  Import took 0,018370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000269 seconds.
+  path: Assets/Medieval ruins/source/wizardTowerDiff.png
+  artifactKey: Guid(fea1aa8641bed2730b8035a6dacefdf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/wizardTowerDiff.png using Guid(fea1aa8641bed2730b8035a6dacefdf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '875c8239a40a418a87eef9c4c5912fb7') in 0,008224 seconds 
+  Import took 0,015866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000171 seconds.
+  path: Assets/Medieval ruins/source/stone.png
+  artifactKey: Guid(0d012dc161cbd2844b8c6bcf8dee014b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/stone.png using Guid(0d012dc161cbd2844b8c6bcf8dee014b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39f554b4f8ab71218cce396e13bd47db') in 0,009059 seconds 
+  Import took 0,016402 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000218 seconds.
+  path: Assets/Medieval ruins/source/yellow.png
+  artifactKey: Guid(10fa5aa97bb7c38348765019df1aa71b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/yellow.png using Guid(10fa5aa97bb7c38348765019df1aa71b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dd3ed80868481f65424bbd25863afc9') in 0,006386 seconds 
+  Import took 0,014459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000230 seconds.
+  path: Assets/Medieval ruins/source/gray.png
+  artifactKey: Guid(e97d6bc16c08be045859496116d60061) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/gray.png using Guid(e97d6bc16c08be045859496116d60061) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b0366e7c6312006b33feeb265ccf112') in 0,007678 seconds 
+  Import took 0,017116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000164 seconds.
+  path: Assets/Medieval ruins/source/Rock_8_9_AO_.png
+  artifactKey: Guid(42ae197e7b17250ad81316c74f6d0ac1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/Rock_8_9_AO_.png using Guid(42ae197e7b17250ad81316c74f6d0ac1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e09a0dd798ae077e4b43553d7eba382') in 0,008393 seconds 
+  Import took 0,015575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000175 seconds.
+  path: Assets/Medieval ruins/source/dirtroad.png
+  artifactKey: Guid(34357e9e14f1c4ac2b113a98d93599af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/dirtroad.png using Guid(34357e9e14f1c4ac2b113a98d93599af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd192447c7453aa6cfdc98ef80151e39d') in 0,008983 seconds 
+  Import took 0,015525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000188 seconds.
+  path: Assets/Medieval ruins/source/hillock_albedo.png
+  artifactKey: Guid(931ada9be2873919b80984f6e5f8a647) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/hillock_albedo.png using Guid(931ada9be2873919b80984f6e5f8a647) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5778bbe899c73062012839d280bc2fa7') in 0,007855 seconds 
+  Import took 0,013842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000211 seconds.
+  path: Assets/Medieval ruins/source/wood.png
+  artifactKey: Guid(9055ce8dd88823086acbd154834d7c4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/wood.png using Guid(9055ce8dd88823086acbd154834d7c4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d2163b29cdc2e5d31e5028349f5449f') in 0,007218 seconds 
+  Import took 0,013777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000306 seconds.
+  path: Assets/Medieval ruins/source/TextureAtlas.png
+  artifactKey: Guid(5595deef018e4531ca18dfca4786f825) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/TextureAtlas.png using Guid(5595deef018e4531ca18dfca4786f825) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33773d249deabe8d18d231d69890b053') in 0,008317 seconds 
+  Import took 0,016056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000400 seconds.
+  path: Assets/Medieval ruins/source/smlstone.png
+  artifactKey: Guid(d85adf245a9fde53fab6772e38c3d8fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/smlstone.png using Guid(d85adf245a9fde53fab6772e38c3d8fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2076597509bb99b04c64420eaff2868') in 0,008179 seconds 
+  Import took 0,017254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000197 seconds.
+  path: Assets/Medieval ruins/source/dkbrow.png
+  artifactKey: Guid(6ca773926bedb2380a3669214dfd3a22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/dkbrow.png using Guid(6ca773926bedb2380a3669214dfd3a22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35f37e905b25d51e5ac1c27acb7f1ebb') in 0,006729 seconds 
+  Import took 0,014835 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000174 seconds.
+  path: Assets/Medieval ruins/source/Main_Pallete.png
+  artifactKey: Guid(cc5311c65f94bb48c9996b73c06dfc59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/Main_Pallete.png using Guid(cc5311c65f94bb48c9996b73c06dfc59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '573b6c13c90ec0471cbab51362d9e675') in 0,007902 seconds 
+  Import took 0,015694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000190 seconds.
+  path: Assets/Medieval ruins/source/white.png
+  artifactKey: Guid(f90514c9ac47e7ca78ef7d2e70869fef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/white.png using Guid(f90514c9ac47e7ca78ef7d2e70869fef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c207c34a089e94306d3f47d967f00dd5') in 0,007001 seconds 
+  Import took 0,015091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000316 seconds.
+  path: Assets/Medieval ruins/source/medieval_diffuse.psd
+  artifactKey: Guid(c2e25907a253f3e288134cdaa4de0564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/medieval_diffuse.psd using Guid(c2e25907a253f3e288134cdaa4de0564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c838e103e3395e8e0a72825633be289b') in 0,008672 seconds 
+  Import took 0,021032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000241 seconds.
+  path: Assets/Medieval ruins/source/TownDIFF.png
+  artifactKey: Guid(184bc36ce30dc9270abc8223959cdcb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/TownDIFF.png using Guid(184bc36ce30dc9270abc8223959cdcb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa91c64219d6b958a334f573b0439916') in 0,007819 seconds 
+  Import took 0,016846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000163 seconds.
+  path: Assets/Medieval ruins/source/brown.png
+  artifactKey: Guid(bb88250a55bcc7ac78058cb96a43bc5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/brown.png using Guid(bb88250a55bcc7ac78058cb96a43bc5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07bae665b8c17629541376007bbfdf3a') in 0,007735 seconds 
+  Import took 0,018159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000206 seconds.
+  path: Assets/Medieval ruins/source/medievalfantasyforest_diffuse.png
+  artifactKey: Guid(2ef4d6f904fac284cb99ee4c61605150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/medievalfantasyforest_diffuse.png using Guid(2ef4d6f904fac284cb99ee4c61605150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6f56e423a130df378d2460a28d28059') in 0,006942 seconds 
+  Import took 0,015983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000205 seconds.
+  path: Assets/Medieval ruins/source/MetalnessAtlas.png
+  artifactKey: Guid(90b42f0f8fca98ddc8bec1d6f457490c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/MetalnessAtlas.png using Guid(90b42f0f8fca98ddc8bec1d6f457490c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d2e2668c5f06a9f8be3f9a3f5dc643c') in 0,006984 seconds 
+  Import took 0,016675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3,374639 seconds.
+  path: Assets/Medieval ruins/source/dirt_normal.png
+  artifactKey: Guid(352bce727e1e78c1183b636f1421bdba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/dirt_normal.png using Guid(352bce727e1e78c1183b636f1421bdba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '777567a91a2fc4f336796179d497d329') in 0,019981 seconds 
+  Import took 0,026750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000156 seconds.
+  path: Assets/Medieval ruins/source/wood_normal.png
+  artifactKey: Guid(4b7993e6e1c0b5a7fb37f02d29b13883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Medieval ruins/source/wood_normal.png using Guid(4b7993e6e1c0b5a7fb37f02d29b13883) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c01ab03767c696dee4f20dd5d8cb6664') in 0,010628 seconds 
+  Import took 0,017722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1874,411308 seconds.
+  path: Assets/Low Poly forest/Models/Stumps/Stump1
+  artifactKey: Guid(9dca4edb5c9216e479058f9b332a9153) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Low Poly forest/Models/Stumps/Stump1 using Guid(9dca4edb5c9216e479058f9b332a9153) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cca7271e349043c6dba64902432881e') in 0,001201 seconds 
+  Import took 0,008137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 113,094671 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat
+  artifactKey: Guid(31321ba15b8f8eb4c954353edc038b1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat using Guid(31321ba15b8f8eb4c954353edc038b1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86342eebc9404e5d2974c84c96a5bd87') in 0,011987 seconds 
+  Import took 0,018523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000203 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/TerrainLit.mat
+  artifactKey: Guid(594ea882c5a793440b60ff72d896021e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/TerrainLit.mat using Guid(594ea882c5a793440b60ff72d896021e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75ca96f13f407335720c32aacc6635cc') in 0,030022 seconds 
+  Import took 0,037038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000198 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/Sprite-Unlit-Default.mat
+  artifactKey: Guid(9dfc825aed78fcd4ba02077103263b40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/Sprite-Unlit-Default.mat using Guid(9dfc825aed78fcd4ba02077103263b40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fb53236b7917f8c05ef4106c71a730e') in 0,012494 seconds 
+  Import took 0,019650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000169 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/SimpleLit.mat
+  artifactKey: Guid(6a1143ee683302f4aa628c052723efc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/SimpleLit.mat using Guid(6a1143ee683302f4aa628c052723efc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbc65126cc2bbf671cfa2f44628d2a76') in 0,015633 seconds 
+  Import took 0,022043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000185 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/Sprite-Lit-Default.mat
+  artifactKey: Guid(a97c105638bdf8b4a8650670310a4cd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/Sprite-Lit-Default.mat using Guid(a97c105638bdf8b4a8650670310a4cd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66a9436cff96260a1a417a2d95718e1f') in 0,009491 seconds 
+  Import took 0,016738 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000150 seconds.
+  path: Packages/com.unity.render-pipelines.universal/Runtime/Materials/ParticlesUnlit.mat
+  artifactKey: Guid(e823cd5b5d27c0f4b8256e7c12ee3e6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.universal/Runtime/Materials/ParticlesUnlit.mat using Guid(e823cd5b5d27c0f4b8256e7c12ee3e6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c89080eaa2029ef9e458e4e6a0aa3f89') in 0,010682 seconds 
+  Import took 0,017635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 81,183320 seconds.
+  path: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Fonts/Perfect DOS VGA 437.ttf
+  artifactKey: Guid(74a5091d8707f334b9a5c31ef71a64ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Fonts/Perfect DOS VGA 437.ttf using Guid(74a5091d8707f334b9a5c31ef71a64ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '936a8da53bbb5fc646674340b09193d0') in 0,018037 seconds 
+  Import took 0,025358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000162 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Black.ttf
+  artifactKey: Guid(1062c701058745940ae5dca6219c64c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Black.ttf using Guid(1062c701058745940ae5dca6219c64c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca4c4e335396bd7b28513016708558df') in 0,013242 seconds 
+  Import took 0,020326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000153 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-BlackItalic.ttf
+  artifactKey: Guid(f95147a9bab9fe649b8070170fa7ebd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-BlackItalic.ttf using Guid(f95147a9bab9fe649b8070170fa7ebd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7be2d49e9f17f1962cddbb444e907fe6') in 0,012490 seconds 
+  Import took 0,020988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,285021 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Bold.ttf
+  artifactKey: Guid(3750c318f40cab44a97d3a81beaefeb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Bold.ttf using Guid(3750c318f40cab44a97d3a81beaefeb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6adb7bdcbfcb54f37b33531de5951b3e') in 0,017175 seconds 
+  Import took 0,024885 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000183 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-MediumItalic.ttf
+  artifactKey: Guid(d93c1bc57fdf1ac4dad1bf04fac05464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-MediumItalic.ttf using Guid(d93c1bc57fdf1ac4dad1bf04fac05464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9a993ae2420a7496494769a7f5dbebb') in 0,011562 seconds 
+  Import took 0,018467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000164 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Light.ttf
+  artifactKey: Guid(2a29e27936eb547458f646f71125b264) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Light.ttf using Guid(2a29e27936eb547458f646f71125b264) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bc1c292c733cdb453c693866e0122ca') in 0,012195 seconds 
+  Import took 0,019545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000203 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-BoldItalic.ttf
+  artifactKey: Guid(dfb97a9307a577a41bcacba34b9a7e32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-BoldItalic.ttf using Guid(dfb97a9307a577a41bcacba34b9a7e32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a0cfecd33bf30c836a8df30af2c19ff') in 0,012467 seconds 
+  Import took 0,021290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,222744 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Italic.ttf
+  artifactKey: Guid(c839255fc8f6b4b4d90bf8c1af9f9bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Italic.ttf using Guid(c839255fc8f6b4b4d90bf8c1af9f9bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9539cd50e1a84743c05bbcf82c6d58de') in 0,011766 seconds 
+  Import took 0,018508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000165 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-ThinItalic.ttf
+  artifactKey: Guid(b2ea3b3f1765e544b9eb5bd1a93a91ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-ThinItalic.ttf using Guid(b2ea3b3f1765e544b9eb5bd1a93a91ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f14598553e63d934ba088c58ecba2c1') in 0,012111 seconds 
+  Import took 0,018715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000169 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Medium.ttf
+  artifactKey: Guid(a51a3aebb43ac044989270407476b208) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-Medium.ttf using Guid(a51a3aebb43ac044989270407476b208) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05dc5a9a524e92831ae3616a8a89a74b') in 0,011946 seconds 
+  Import took 0,019376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000158 seconds.
+  path: Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-LightItalic.ttf
+  artifactKey: Guid(5e63515167650a541b309ba3bfd4db3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.searcher/Editor/Resources/FlatSkin/Font/Roboto-LightItalic.ttf using Guid(5e63515167650a541b309ba3bfd4db3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a19438fbdc2708670ff513f480afee6') in 0,011783 seconds 
+  Import took 0,019015 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 101,747577 seconds.
+  path: Assets/TextMesh Pro/Sprites/EmojiOne.png
+  artifactKey: Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Sprites/EmojiOne.png using Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '363244dd147fd0d7ca2bbd92fda50301') in 0,038494 seconds 
+  Import took 0,045470 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,007803 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0,68 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,329 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1329ms)
+		BeginReloadAssembly (170ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (81ms)
+		EndReloadAssembly (1079ms)
+			LoadAssemblies (124ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (391ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (57ms)
+			SetupLoadedEditorAssemblies (357ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (13ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (69ms)
+				ProcessInitializeOnLoadAttributes (265ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (17ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0,73 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 3325 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 165,8 MB.
+System memory in use after: 165,9 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 4134.
+Total: 6,936251 ms (FindLiveObjects: 0,548077 ms CreateObjectMapping: 0,201439 ms MarkObjects: 6,096459 ms  DeleteObjects: 0,088851 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,008925 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0,67 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,144 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1144ms)
+		BeginReloadAssembly (132ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (55ms)
+		EndReloadAssembly (954ms)
+			LoadAssemblies (93ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (337ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (50ms)
+			SetupLoadedEditorAssemblies (337ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (13ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (66ms)
+				ProcessInitializeOnLoadAttributes (249ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (19ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0,71 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 3325 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 165,8 MB.
+System memory in use after: 165,9 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 4136.
+Total: 6,451822 ms (FindLiveObjects: 0,397831 ms CreateObjectMapping: 0,141330 ms MarkObjects: 5,802021 ms  DeleteObjects: 0,109329 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 

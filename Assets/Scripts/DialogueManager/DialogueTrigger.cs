@@ -27,8 +27,8 @@ By default Unity sets all layers to collide with all layers. That's a good works
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log("player: " + player.name);
-        Debug.Log("ok");
+        // Debug.Log("player: " + player.name);
+        // Debug.Log("ok");
         // Debug.Log(dialogueManager == null);
         panel.SetActive(false);
         if(dialogueManager == null){
@@ -37,13 +37,13 @@ By default Unity sets all layers to collide with all layers. That's a good works
     }
 
     private void OnTriggerEnter(Collider collision){
-        Debug.Log("Colidiu");
+        // Debug.Log("Colidiu");
         inTrigger = true;
         
     }
 
     private void OnTriggerExit(Collider collision){
-        Debug.Log("Descolidiu");
+        // Debug.Log("Descolidiu");
         inTrigger = false;
         panel.SetActive(false);
         
@@ -74,8 +74,8 @@ By default Unity sets all layers to collide with all layers. That's a good works
     void Update()
     {
         string selectedPath = selectAndRunDialog();
-        Debug.Log(selectedPath);
+        // Debug.Log(selectedPath);
         runDialogue(Input.GetMouseButtonDown(0), selectedPath);
-        Debug.Log("-----------------");
+        // Debug.Log("-----------------");
     }
 }
