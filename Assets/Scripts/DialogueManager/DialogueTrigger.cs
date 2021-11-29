@@ -6,8 +6,9 @@ public class DialogueTrigger : MonoBehaviour
 {
     public DialogueManager dialogueManager;
     public GameObject panel;
-    public GameObject player;
-    public string path;
+    public Player player;
+    public string beforeQuest;
+    public string afterQuest;
     
 /*
 
@@ -23,7 +24,6 @@ By default Unity sets all layers to collide with all layers. That's a good works
     private bool inTrigger = false; // debug - pq n ta setando pra true nunca?
     private bool dialogueLoaded = false;
 
-
     // Start is called before the first frame update
     void Start()
     {
@@ -37,19 +37,20 @@ By default Unity sets all layers to collide with all layers. That's a good works
     }
 
     private void OnTriggerEnter(Collider collision){
-        if(collision.gameObject == player){
-            inTrigger = true;
-        }
+        Debug.Log("Colidiu");
+        inTrigger = true;
+        
     }
 
     private void OnTriggerExit(Collider collision){
-        if(collision.gameObject == player){
-            inTrigger = false;
-            panel.SetActive(false);
-        }
+        Debug.Log("Descolidiu");
+        inTrigger = false;
+        panel.SetActive(false);
+        
     }
 
-    private void runDialogue(bool keyTrigger){
+    private void runDialogue(bool keyTrigger, string path){
+        
         if(keyTrigger){
             if(inTrigger && !dialogueLoaded){
                 panel.SetActive(true);
@@ -62,9 +63,19 @@ By default Unity sets all layers to collide with all layers. That's a good works
         }
     }
 
+    private string selectAndRunDialog() {
+        if (player.hasQuestObject) {
+            return afterQuest;
+        } else {
+            return beforeQuest;
+        }
+    }
     // Update is called once per frame
     void Update()
     {
-        runDialogue(Input.GetMouseButtonDown(0));
+        string selectedPath = selectAndRunDialog();
+        Debug.Log(selectedPath);
+        runDialogue(Input.GetMouseButtonDown(0), selectedPath);
+        Debug.Log("-----------------");
     }
 }

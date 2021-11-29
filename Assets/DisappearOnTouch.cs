@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class DisappearOnTouch : MonoBehaviour
 {
-   
+    public Player player;
     void Update()
     {
     }
@@ -12,5 +12,7 @@ public class DisappearOnTouch : MonoBehaviour
     private void OnTriggerEnter(Collider other)
     {
         gameObject.SetActive(false);
+        player.hasQuestObject = true;
+        Debug.Log();
     }
 }
