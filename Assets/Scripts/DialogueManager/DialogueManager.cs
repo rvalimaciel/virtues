@@ -10,6 +10,10 @@ public class DialogueManager : MonoBehaviour
     private int index;
     private string speaker;
     private bool inDialogue;
+    public GameObject fragment;
+    public bool shouldDrop;
+    public bool afterQuest;
+
 
     public bool loadDialogue(string path){
         if(!inDialogue){
@@ -29,6 +33,7 @@ public class DialogueManager : MonoBehaviour
                 inDialogue = false;
                 panel.SetActive(false);
                 textDisplay.text = "";
+                if (shouldDrop) fragment.SetActive(true);
                 return false;
             }
             

@@ -9,20 +9,10 @@ public class DialogueTrigger : MonoBehaviour
     public Player player;
     public string beforeQuest;
     public string afterQuest;
-    
-/*
-
-
-For your objects to receive the OnTriggerEnter, at least one of them has to have the Is Trigger property checked and at least one of them has to have a Rigid Body. If neither of your objects is a Trigger, you can use OnCollisionEnter instead.
-
-Once that's all set, you should check the Layers (not Tags) on your objects. To edit which Layers collide with each other, you can look at Edit -> Project Settings -> Physics.
-
-By default Unity sets all layers to collide with all layers. That's a good works-by-default setup, but you may want to play with it to optimize later on.
-
-*/
-
-    private bool inTrigger = false; // debug - pq n ta setando pra true nunca?
+    private bool inTrigger = false;
     private bool dialogueLoaded = false;
+    public GameObject fragment;
+    public bool shouldDrop;
 
     // Start is called before the first frame update
     void Start()
@@ -65,6 +55,8 @@ By default Unity sets all layers to collide with all layers. That's a good works
 
     private string selectAndRunDialog() {
         if (player.hasQuestObject) {
+            dialogueManager.shouldDrop = true;
+            dialogueManager.fragment = fragment;
             return afterQuest;
         } else {
             return beforeQuest;
